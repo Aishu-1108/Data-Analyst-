@@ -6,6 +6,7 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 <a href="https://in.docworkspace.com/d/sIAm-zIHPAfmklc0G?lg=en-US&sa=601.1074&ps=1&fn=vrinda_store_data_analysis.xlsx">Vrinda Store</a>
 
 #Questions (KPIs)
+
 -Compare the sales and orders using single chart.
 -Which month got the highest sales and orders?
 -Who purchased more Men or Women?
@@ -17,10 +18,10 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 -Percentage of Total Orders delivered
 
 #Process
--Verify data for any missing values and anomalies, and sort out the same.
--Made sure data is consistent and clean with respect to data type, data format and values used.
--Created pivot tables according to the questions asked.
--Merge all pivot tables into one dashboard and apply slicer to make dynamic
+1. Verify data for any missing values and anomalies, and sort out the same.
+2. Made sure data is consistent and clean with respect to data type, data format and values used.
+3. Created pivot tables according to the questions asked.
+4. Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 #Insights
 1. Women are more likely to buy compared to men (~65%).
