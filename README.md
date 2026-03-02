@@ -7,15 +7,15 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 
 #Questions (KPIs)
 
--Compare the sales and orders using single chart.
--Which month got the highest sales and orders?
--Who purchased more Men or Women?
+1. Compare the sales and orders using single chart.
+2. Which month got the highest sales and orders?
+3. Who purchased more Men or Women?
 -What are different order status in 2022?
--List top 10 states contributingto the sales?
--Relation between age and gender based on number of orders.
--Which Channel is contributing maximum to the sales?
--Highest selling category?
--Percentage of Total Orders delivered
+4. List top 10 states contributingto the sales?
+5. Relation between age and gender based on number of orders.
+6. Which Channel is contributing maximum to the sales?
+7. Highest selling category?
+8. Percentage of Total Orders delivered?
 
 #Process
 1. Verify data for any missing values and anomalies, and sort out the same.
